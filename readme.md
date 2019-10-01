@@ -15,7 +15,7 @@ Full featured JavaScript lightbox gallery. No dependencies.
 
 ## Main features
 
-* Fully responsive.
+* Fully Responsive.
 * Modular architecture with built in plugins.
 * Touch support for mobile devices.
 * Mouse drag supports for desktops.
@@ -115,7 +115,7 @@ you can find the detailed examples of different kinds of markup.
     <a href="img/img1.jpg">
         <img src="img/thumb1.jpg">
     </a>
-    <a href="img/img2.jpg">
+    <a href="img/img2.jpg">html
         <img src="img/thumb2.jpg">
     </a>
     ...
